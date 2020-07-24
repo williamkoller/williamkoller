@@ -1,6 +1,6 @@
 
 ##  Olá, Sou William Koller!
-Sou desenvolvedor backend, atualmente desenvolvo APIs utilizando TypeScript e Node.Js. 
+Sou desenvolvedor backend, atualmente desenvolvo APIs utilizando TypeScript, JavaScript e Node.Js. 
 Sou apaixonado pelo universo JavaScript, tenho estudado e focado em conceitos de Clean Architecture e utilizado os patterns como: Builder, Composite, Decorator, Factory e Strategy na estrutura de código limpo.
 
 Este é meu [Portfólio](https://williamkoller.github.io), dá uma conferida.
