@@ -6,24 +6,7 @@ Sou apaixonado pelo universo JavaScript, tenho estudado os conceitos de Clean Ar
 Este é meu [Portfólio](https://williamkoller.github.io), dá uma conferida.
 
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>TypeScript<span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=williamkoller">
