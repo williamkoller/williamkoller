@@ -1,9 +1,9 @@
 
-##  Olá, Sou William Koller!
-Sou desenvolvedor backend, atualmente desenvolvo APIs utilizando TypeScript. 
-Tenho implementado os conceitos de Clean Architecture e utilizado os patterns como: Builder, BDD, Composite, DDD, Decorator, Dependecy Injection, POO, Factory e Strategy, TDD na estrutura de código limpo.
+##  Hi, I'm William!
 
-Este é meu [Portfólio](https://williamkoller.github.io), dá uma conferida.
+I am a backend developer, currently developing APIs using TypeScript. I have implemented the concepts of Clean Architecture and used the patterns such as: Builder, BDD, Composite, DDD, Decorator, Dependecy Injection, POO, Factory and Strategy, TDD in the clean code structure.
+
+This is my portfolio. [Portfolio](https://williamkoller.github.io)
 
 
 
