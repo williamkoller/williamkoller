@@ -11,7 +11,6 @@ This is my portfolio. [Portfolio](https://williamkoller.github.io)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logoColor=fff&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
 
