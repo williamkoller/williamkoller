@@ -19,12 +19,15 @@ This is my portfolio. [Portfolio](https://williamkoller.github.io)
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&layout=compact)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&theme=dracula)](https://github.com/williamkoller)&nbsp;
-</br>
-
-[![William Koller wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dracula&layout=compact)](https://github.com/williamkoller)
-
+<center>
+  <table>
+    <tr>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamkoller&theme=dracula"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dracula&layout=compact"/></td>
+    </tr>   
+  </table>
+</center>  
 
 
 ## Follow me, Let's talk, get some coffee.
