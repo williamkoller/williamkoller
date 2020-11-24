@@ -18,6 +18,7 @@ This is my portfolio. [Portfolio](https://williamkoller.github.io)
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![TypeORM](https://img.shields.io/badge/-TypeORM-fd7e14?style=flat&logoColor=fff&logo=typeorm)&nbsp;
 
 <center>
   <table>
