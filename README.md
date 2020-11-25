@@ -10,8 +10,8 @@ This is my portfolio. [Portfolio](https://williamkoller.github.io)
 
 ![Adonisjs](https://img.shields.io/badge/-Adonisjs-220052?style=flat&logoColor=fff&logo=adonisjs)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=flat&logoColor=fff&logo=graphql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
