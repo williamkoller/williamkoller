@@ -20,7 +20,7 @@ This is my portfolio. [Portfolio](https://williamkoller.github.io)
   <table>
     <tr>
         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamkoller&theme=dracula"/></td>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&theme=dracula" /></td>
+        </td>
         <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dracula&layout=compact"/></td>
     </tr>   
   </table>
