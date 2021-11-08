@@ -1,37 +1,31 @@
-
-##  Hi, I'm William!
-
-This is my portfolio. [Portfolio](https://williamkoller.github.io)
-
-💻  &nbsp; Programming: <br/>
-
-
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logoColor=fff&logo=python)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-
-<center>
-  <table>
-    <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamkoller&theme=dracula"/></td>
-        </td>
-        <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dracula&layout=compact"/></td>
-    </tr>   
-  </table>
-</center>  
+## Hello, I'm Will Koller
+<div align="center">
+  <a href="https://github.com/williamkoller">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
 
 
-## Follow me, Let's talk, get some coffee.
-
-<p align="center">
-<a href="https://twitter.com/williamkoller" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="williamkoller" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/williamkoller" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="williamkoller" height="20" width="20" /></a>
-<a href="https://fb.com/developwilliamkoller" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="developwilliamkoller" height="20" width="20" /></a>
-<a href="https://instagram.com/williamkoller" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="williamkoller" height="20" width="20" /></a>
-</p>
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/williamkoller" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:williamkoller404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/williamkoller" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
