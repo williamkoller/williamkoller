@@ -1,4 +1,4 @@
-## Hello, I'm Will Koller
+## Hello, I'm William Koller
 <div align="center">
   <a href="https://github.com/williamkoller">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
