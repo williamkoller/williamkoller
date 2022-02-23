@@ -12,7 +12,7 @@
   <a href="https://github.com/williamkoller">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&langs_count=7&theme=dracula"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamkoller&show_icons=true&theme=dracula" alt="williamkoller" /></p>
+  <img height="245em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamkoller&show_icons=true&theme=dracula" alt="williamkoller" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
@@ -28,8 +28,6 @@
   <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-
 
 </div>
   
