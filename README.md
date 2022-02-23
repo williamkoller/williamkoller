@@ -1,8 +1,19 @@
-## Hello, I'm William Koller
-<div align="center">
+<h1 align="center">Hi 👋, I'm William Koller</h1>
+<h3 align="center">Senior Software Engineer</h3><div align="center">
+
+- 🔭 I’m currently working on [Invillia](https://invillia.com/hellostrangers/?gclid=CjwKCAiAsNKQBhAPEiwAB-I5ze-raxplO3VvxH93LdPzUTXGHmpzTmFUirvVsxuEHQCNb__VMQsHrxoCb28QAvD_BwE)
+
+- 🌱 I’m currently learning **Dart/Flutter**, **Golang** and **Testing Javascript**
+
+- 📝 I regularly write articles on [https://dev.to/williamkoller](https://dev.to/williamkoller)
+
+
+- 📫 How to reach me **williamkoller30@gmail.com**
+
   <a href="https://github.com/williamkoller">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&langs_count=7&theme=dracula"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamkoller&show_icons=true&theme=dracula" alt="williamkoller" /></p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
