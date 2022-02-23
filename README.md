@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm William Koller</h1>
-<h3 align="center">Senior Software Engineer</h3><div align="center">
+<h3 align="center">Senior Software Engineer</h3>
 
 - 🔭 I’m currently working on [Invillia](https://invillia.com/hellostrangers/?gclid=CjwKCAiAsNKQBhAPEiwAB-I5ze-raxplO3VvxH93LdPzUTXGHmpzTmFUirvVsxuEHQCNb__VMQsHrxoCb28QAvD_BwE)
 
 - 🌱 I’m currently learning **Dart/Flutter**, **Golang** and **Testing Javascript**
 
 - 📝 I regularly write articles on [https://dev.to/williamkoller](https://dev.to/williamkoller)
-
 
 - 📫 How to reach me **williamkoller30@gmail.com**
 
