@@ -12,7 +12,7 @@
   <a href="https://github.com/williamkoller">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="243em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="williamkoller" />
+  <img height="243em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dracula" alt="williamkoller" />
   
 </div>
 <div style="display: inline_block"><br>
