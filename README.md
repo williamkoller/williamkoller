@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Dart/Flutter**, **Golang** and **Javascript testing**
 
-- 📝 I regularly write articles on [https://dev.to](https://dev.to/williamkoller)
-
-- 📫 How to reach me **williamkoller30@gmail.com**
+- 📝 I regularly write articles on [dev.to](https://dev.to/williamkoller)
 
 - 💻 I use daily **.js**, **.ts**, **.go**,  **.sql**
 
