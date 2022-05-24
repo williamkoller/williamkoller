@@ -54,6 +54,7 @@
 - [Como trabalhar com Switch no Golang](https://dev.to/williamkoller/como-trabalhar-com-switch-no-golang-50ai)
 - [Como remover dados duplicados em go](https://dev.to/williamkoller/como-remover-dados-duplicados-em-go-4d0p)
 - [Como evitar SQL Injection no MongoDB](https://dev.to/williamkoller/como-evitar-sql-injection-no-mongodb-1fo3)
+- [Rest e seus níveis de maturidade](https://dev.to/williamkoller/rest-e-seus-niveis-de-maturidade-3mf2)
 <!-- BLOG-POST-LIST:END -->
 
  
