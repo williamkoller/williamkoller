@@ -2,7 +2,7 @@
   
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> About Me:
+### About Me:
 
 - 🔭 I’m a Digital Technology Leader - Node.js Specialist working at [Dasa](https://dasa.com.br/) in Brazil
 
@@ -33,7 +33,7 @@
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+### My Github Stats:
 
   <a href="https://github.com/williamkoller">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&include_all_commits=true"/>
@@ -41,10 +41,9 @@
   <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dracula" alt="williamkoller" />
   
 </div>
-<br/>
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=23px> My Latest Blog posts:
+###  My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Autenticação em várias contas do GitHub usando SSH](https://dev.to/williamkoller/autenticacao-em-varias-contas-do-github-usando-ssh-5eom)
 - [Primeiros passos com Golang!](https://dev.to/williamkoller/primeiros-passos-com-golang-2lid)
