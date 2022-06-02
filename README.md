@@ -41,7 +41,7 @@
   <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dracula" alt="williamkoller" />
   
 </div>
-
+<br/>
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=23px> My Latest Blog posts:
