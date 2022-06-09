@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/williamkoller)
 
-- 💻 I use daily **.js**, **.ts**, **.go**,  **.sql**
+- 💻 I use daily **.spec.js**, **.test.js**, **.js**, **.ts**, **.go**,  **.sql**
 
 ---
 
