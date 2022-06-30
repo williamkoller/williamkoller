@@ -34,16 +34,13 @@
 ---
 
 ### My Github Stats:
+<div>
 
   <a href="https://github.com/williamkoller">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&langs_count=10r&theme=dracula"/>
-  <br/>
-  <br/>
-  <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dracula" alt="williamkoller" />
-  <br/>
-  <br/>
-  <img height="232em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dracula" alt="williamkoller" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&langs_count=10r&theme=dark"/>
+  <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dark" alt="williamkoller" />
+  <img height="232em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dark" alt="williamkoller" />
   
 </div>
 
