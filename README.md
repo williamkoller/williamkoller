@@ -1,14 +1,12 @@
 <h1>Hi there! 👋, I'm William Koller</h1>
   
- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
 ### About Me:
 
-- 🔭 I’m a Digital Technology Leader - Node.js Specialist working at [Dasa](https://dasa.com.br/) in Brazil
+- 🔭 I’m a Digital Technology Leader - Specialist Software Engineer working at [Dasa](https://dasa.com.br/) in Brazil
 
-- 🌱 I’m currently learning **Dart/Flutter**, **Golang** and **Javascript testing**
+- 🌱 I’m currently learning **Apache Kafka**, **Clean Architecture**, **Golang**, and **Javascript testing**
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/williamkoller)
+- 📝 I regularly write articles on [dev.to](https://dev.to/williamkoller) and [medium](https://medium.com/@williamkoller404)
 
 - 💻 I use daily **.spec.js**, **.test.js**, **.js**, **.ts**, **.go**,  **.sql**
 
@@ -37,8 +35,6 @@
 <div>
 
   <a href="https://github.com/williamkoller">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=compact&langs_count=10r&theme=dark"/>
   <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dark" alt="williamkoller" />
   <img height="232em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dark" alt="williamkoller" />
   
@@ -65,6 +61,7 @@
 
 <p align="center">
   <a href= "https://dev.to/williamkoller"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href= "[https://dev.to/williamkoller](https://medium.com/@williamkoller404)"><img src="https://img.icons8.com/windows/32/000000/medium.png"/></a>
   <a href="mailto:williamkoller30@gmail.coma"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/williamkoller"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://hub.docker.com/u/williamkoller"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
