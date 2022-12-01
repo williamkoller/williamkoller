@@ -35,8 +35,8 @@
 <div>
 
   <a href="https://github.com/williamkoller">
-  <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dark" alt="williamkoller" />
-  <img height="232em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dark" alt="williamkoller" />
+  <img height="220em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=williamkoller&theme=dark" alt="williamkoller" />
+  <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller&theme=dark" alt="williamkoller" />
   
 </div>
 
