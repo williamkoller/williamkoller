@@ -54,6 +54,8 @@
 - [Como evitar SQL Injection no MongoDB](https://dev.to/williamkoller/como-evitar-sql-injection-no-mongodb-1fo3)
 - [Rest e seus níveis de maturidade](https://dev.to/williamkoller/rest-e-seus-niveis-de-maturidade-3mf2)
 - [Introdução sobre CI/CD](https://medium.com/@williamkoller404/introducao-ao-ci-cd-cb3a91c9bf02)
+- [Como trabalhar com variaveis de ambiente no NestJS?!](https://medium.com/@williamkoller404/como-trabalhar-com-variaveis-de-ambiente-no-nestjs-fa083700cf7b)
+  
 <!-- BLOG-POST-LIST:END -->
 
  
