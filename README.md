@@ -2,8 +2,6 @@
   
 ### About Me:
 
-- 🔭 I’m a Digital Technology Leader - Specialist Software Engineer working at [Dasa](https://dasa.com.br/) in Brazil
-
 - 🌱 I’m currently learning **Apache Kafka**, **Clean Architecture**, **Golang**, and **Javascript testing**
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/williamkoller) and [medium](https://medium.com/@williamkoller404)
