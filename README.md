@@ -11,7 +11,7 @@ Eu sou um entusiasta da programação e apaixonado por JavaScript e Golang. Semp
 ## Habilidades
 - Linguagens de Programação: JavaScript, Golang, Python e PHP
 - Frameworks: AdonisJS, Express, Koa, Nestjs, Django, Flesk e Laravel.
-- Outras Habilidades: Banco de dados (OracleDB, MongoDB, MySQL, PostgreSQL e Redis)
+- Outras Habilidades: Banco de dados (OracleDB, MongoDB, MySQL, PostgreSQL e Redis), DevOps (Docker, Kubernetes, Datadog)
 
 ## Projetos Destacados
 - [Clean Architecture](https://github.com/williamkoller/clean-ts-api): Clean Architecture with MongoDB.
