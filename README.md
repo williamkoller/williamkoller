@@ -1,7 +1,7 @@
 # Olá, eu sou William Koller. 
 
 ## Sobre Mim
-Eu sou um entusiasta da programação e apaixonado por JavaScript e Golang. Sempre em busca de aprender coisas novas e colaborar com projetos interessantes.
+Eu sou um entusiasta da programação e apaixonado por JavaScript. Sempre em busca de aprender coisas novas e colaborar com projetos interessantes.
 
 - 🔭 Atualmente estou trabalhando em Amor Saúde Brasil.
 - 🌱 Atualmente estou aprendendo Observabilidade.
