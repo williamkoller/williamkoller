@@ -3,7 +3,6 @@
 ## Sobre Mim
 Eu sou um entusiasta da programação e apaixonado por JavaScript. Sempre em busca de aprender coisas novas e colaborar com projetos interessantes.
 
-- 🔭 Atualmente estou trabalhando em Amor Saúde Brasil.
 - 🌱 Atualmente estou aprendendo Observabilidade.
 - 👯 Estou procurando colaborar em projetos open-source, apis e banco de dados.  
 - ⚡ Curiosidade: Escrevo artigos e ensino programação.
