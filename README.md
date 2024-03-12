@@ -1,27 +1,37 @@
-# Olá, eu sou William Koller. 
+# Olá, eu sou William Koller.
 
-## Sobre Mim
-Eu sou um entusiasta da programação e apaixonado por JavaScript. Sempre em busca de aprender coisas novas e colaborar com projetos interessantes.
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/williamkoller) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@williamkoller) [![Youtube](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@williamkoller) [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamkoller)
 
-- 🌱 Atualmente estou aprendendo Observabilidade.
-- 👯 Estou procurando colaborar em projetos open-source, apis e banco de dados.  
-- ⚡ Curiosidade: Escrevo artigos e ensino programação.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula)
 
-## Habilidades
-- Linguagens de Programação: JavaScript, Golang, Python e PHP
-- Frameworks: AdonisJS, Express, Koa, Nestjs, Django, Flesk e Laravel.
-- Outras Habilidades: Banco de dados (OracleDB, MongoDB, MySQL, PostgreSQL e Redis), DevOps (Docker, Kubernetes, Datadog)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williamkoller)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Projetos Destacados
-- [Clean Architecture](https://github.com/williamkoller/clean-ts-api): Clean Architecture with MongoDB.
-- [API Exchange](https://github.com/williamkoller/tdd-exchange-api): TDD with Nestjs.
+## Linguagens que uso no meu dia a dia!
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+## Últimos vídeos:
+
+- [Playlist - Arch DDD Nestjs](https://www.youtube.com/watch?v=EmqdupU-RQk&list=PL0EjZr3fsjRiaHA1uVmE-CW8H-48HD6mG)
+- [Como trabalhar com variaveis de ambiente - Nestjs](https://www.youtube.com/watch?v=v6liEdKS3-Y)
+- [Iniciando o modulo de Autenticação - Nestjs](https://www.youtube.com/watch?v=T2ghzLaSZ_E)
+- [Bcrypt no Nestjs](https://www.youtube.com/watch?v=DIJvFrR9PpA&t=162s)
 
 
-## Contato
-  <p align="center">
-    <a href= "https://dev.to/williamkoller"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-    <a href= "[https://dev.to/williamkoller](https://medium.com/@williamkoller404)"><img src="https://img.icons8.com/windows/32/000000/medium.png"/></a>
-    <a href="mailto:williamkoller30@gmail.coma"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-    <a href="https://www.linkedin.com/in/williamkoller"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-    <a href="https://hub.docker.com/u/williamkoller"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  </p>
+## Últimos artigos:
+- [Como assinar commits](https://dev.to/williamkoller/assinatura-de-commits-2ac0)
+- [Autenticação em várias contas do GitHub usando SSH](https://dev.to/williamkoller/autenticacao-em-varias-contas-do-github-usando-ssh-5eom)
+- [Como evitar SQL Injection no MongoDB](https://dev.to/williamkoller/como-evitar-sql-injection-no-mongodb-1fo3)
+- [Como criar um projeto com Nestjs do zero com deploy no Heroku usando Github Actions](https://dev.to/williamkoller/como-criar-um-projeto-com-nestjs-do-zero-com-deploy-no-heroku-usando-github-actions-517p)
