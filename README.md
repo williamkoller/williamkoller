@@ -34,3 +34,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Autenticação em várias contas do GitHub usando SSH](https://dev.to/williamkoller/autenticacao-em-varias-contas-do-github-usando-ssh-5eom)
 - [Como evitar SQL Injection no MongoDB](https://dev.to/williamkoller/como-evitar-sql-injection-no-mongodb-1fo3)
 - [Como criar um projeto com Nestjs do zero com deploy no Heroku usando Github Actions](https://dev.to/williamkoller/como-criar-um-projeto-com-nestjs-do-zero-com-deploy-no-heroku-usando-github-actions-517p)
+- [Hoje iremos falar sobre a velocidade em percorrer um elemento em JavaScript](https://dev.to/williamkoller/hoje-iremos-falar-sobre-a-velocidade-em-percorrer-um-elemento-em-javascript-4me3)
+- [Rest e seus níveis de maturidade](https://dev.to/williamkoller/rest-e-seus-niveis-de-maturidade-3mf2)
+- [Como remover dados duplicados em go](https://dev.to/williamkoller/como-remover-dados-duplicados-em-go-4d0p)
