@@ -39,3 +39,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Usando Clusters no NestJS: Vantagens e Desvantagens](https://iamwilliamkoller.medium.com/usando-clusters-no-nestjs-vantagens-e-desvantagens-9ba41a63475e)
 - [Desvendando o Design Pattern IIFE em JavaScript](https://iamwilliamkoller.medium.com/desvendando-o-design-pattern-iife-em-javascript-e248dfcac890)
 - [O Poder do Encapsulamento na Programação Orientada a Objetos](https://iamwilliamkoller.medium.com/o-poder-do-encapsulamento-na-programa%C3%A7%C3%A3o-orientada-a-objetos-12f569b60906)
+- [Criando uma API REST em Go (Golang) com Erro Personalizado](https://iamwilliamkoller.medium.com/criando-uma-api-rest-em-go-golang-com-erro-personalizado-668db4967f37)
