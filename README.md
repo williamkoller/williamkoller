@@ -35,7 +35,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Rest e seus níveis de maturidade](https://dev.to/williamkoller/rest-e-seus-niveis-de-maturidade-3mf2)
 - [Como remover dados duplicados em go](https://dev.to/williamkoller/como-remover-dados-duplicados-em-go-4d0p)
 - [SOLID - Princípios da Programação Orientada a Objetos (OOP)](https://dev.to/williamkoller/solid-principios-da-programacao-orientada-a-objetos-oop-50g3)
-- [Hoje iremos falar sobre a velocidade em percorrer um elemento em JavaScript](https://dev.to/williamkoller/hoje-iremos-falar-sobre-a-velocidade-em-percorrer-um-elemento-em-javascript-4me3)
 - [Usando Clusters no NestJS: Vantagens e Desvantagens](https://iamwilliamkoller.medium.com/usando-clusters-no-nestjs-vantagens-e-desvantagens-9ba41a63475e)
 - [Desvendando o Design Pattern IIFE em JavaScript](https://iamwilliamkoller.medium.com/desvendando-o-design-pattern-iife-em-javascript-e248dfcac890)
 - [O Poder do Encapsulamento na Programação Orientada a Objetos](https://iamwilliamkoller.medium.com/o-poder-do-encapsulamento-na-programa%C3%A7%C3%A3o-orientada-a-objetos-12f569b60906)
