@@ -5,6 +5,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamkoller&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamkoller&hide_progress=true&theme=dracula)
 
+## Horas que já escrevi código!
+
+[![wakatime](https://wakatime.com/badge/user/f8b538ef-5e09-4369-8b13-b9baf54326e9.svg)](https://wakatime.com/@f8b538ef-5e09-4369-8b13-b9baf54326e9)
 
 ## Linguagens que uso no meu dia a dia!
 
