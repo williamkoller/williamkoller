@@ -60,3 +60,17 @@
 - [Redis for AI](https://university.redis.io/certificate/fu1jemvnvalnmc)
 - [Get started with Redis Cloud](https://university.redis.io/certificate/9vubedkcyrchkq)
 - [Get started with Redis](https://university.redis.io/certificate/kqju6mnqybktrs)
+- [Go (Basic) Certificate](https://www.hackerrank.com/certificates/239e04eb6281)
+- [Go (Intermediate) Certificate](https://www.hackerrank.com/certificates/1f697eeb285e)
+- [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/bda50d6907f8)
+- [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/d6e663e51576)
+- [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/d4cec099413c)
+- [Rest API (Intermediate) Certificate](https://www.hackerrank.com/certificates/49ba230f6580)
+- [Node (Basic) Certificate](https://www.hackerrank.com/certificates/3c6b77cc94d6)
+- [JavaScript (Intermediate) Certificate](https://www.hackerrank.com/certificates/d96989f19fc9)
+- [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/1bb86596c828)
+- [Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/b8395039fe49)
+- [Software Engineer Certificate](https://www.hackerrank.com/certificates/43da080a9167)
+- [Java (Basic) Certificate](https://www.hackerrank.com/certificates/3c01a2900087)
+
+
