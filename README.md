@@ -50,3 +50,13 @@
 - [Desvendando o Design Pattern IIFE em JavaScript](https://iamwilliamkoller.medium.com/desvendando-o-design-pattern-iife-em-javascript-e248dfcac890)
 - [O Poder do Encapsulamento na Programação Orientada a Objetos](https://iamwilliamkoller.medium.com/o-poder-do-encapsulamento-na-programa%C3%A7%C3%A3o-orientada-a-objetos-12f569b60906)
 - [Criando uma API REST em Go (Golang) com Erro Personalizado](https://iamwilliamkoller.medium.com/criando-uma-api-rest-em-go-golang-com-erro-personalizado-668db4967f37)
+
+
+---
+
+## Certificações
+
+- [Redis for startups](https://university.redis.io/certificate/p44tgv9wvgwdze)
+- [Redis for AI](https://university.redis.io/certificate/fu1jemvnvalnmc)
+- [Get started with Redis Cloud](https://university.redis.io/certificate/9vubedkcyrchkq)
+- [Get started with Redis](https://university.redis.io/certificate/kqju6mnqybktrs)
